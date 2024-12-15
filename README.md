@@ -43,6 +43,7 @@ M3U Organizer es una aplicación que escribí por que alguien me ha pedido una a
 
 3. **Instala las dependencias**:
     ```bash
+    pip install --upgrade pip setuptools wheel
     pip install -r requirements.txt
     ```
 
