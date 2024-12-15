@@ -37,8 +37,7 @@ M3U Organizer es una aplicación que escribí por que alguien me ha pedido una a
 
 2. **Crea un entorno virtual** (opcional, pero recomendado):
     ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # En Windows: venv\Scripts\activate
+    python3 -m venv ./venv
     ```
 
 3. **Instala las dependencias**:
