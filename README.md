@@ -31,7 +31,7 @@ M3U Organizer es una aplicación que escribí por que alguien me ha pedido una a
 
 1. **Clona el repositorio**:
     ```bash
-    git clone https://github.com/sapoclay/ordenar-m3u.git
+    git clone https://github.com/vico32/organizador-m3u.git
     cd ordenar-m3u
     ```
 
